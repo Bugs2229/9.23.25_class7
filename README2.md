@@ -34,3 +34,6 @@ To in insure that your Terraform configuratuion is working properly you should h
 * .gitignore
 * terraform.tfstate
 **Note: DO NOT TOUCH OR MODIFY ANY OF THE ABOVE FILES.**
+
+## Example of what your VS code ootput should look like.
+<img width="1280" height="637" alt="image" src="https://github.com/user-attachments/assets/545eca58-08ed-4ac2-801f-71dd783aea55" />
