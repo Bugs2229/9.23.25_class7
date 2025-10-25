@@ -1,5 +1,5 @@
 # Class 7 Week 6 HW Deliverables Terraform Guide 
-The purpose of this guide is to provide th initial instructions on how to setup Terraform begin pervisioning infrastructure in the AWS cloud.
+The purpose of this guide is to provide the initial instructions on how to setup Terraform to begin pervisioning infrastructure in the AWS cloud.
 
 ## Initial Terraform configuration confirmation check 
 * Verify AWS CLI Configuration and terraform version: Open Git Bash and run the following commnads. Aws configure | Terragorm -v version
