@@ -10,8 +10,8 @@ Command: Terraform --version
 <img width="956" height="251" alt="image" src="https://github.com/user-attachments/assets/bd414fb2-3c78-406f-84d6-2d081630b7fa" />
 
 ## Create Terraform file 
-*Luanch Git Bash and navigate to the local Terraform folder and create folder 2025oct25. (NO CAPITAL LETTERS, NO SPACES AND DO NOT SAVE IT TO ONE DRIVE.)
-1. Command: mkdir 2025oct25
+*Launch Git Bash and navigate to the local Terraform folder and create folder 2025oct25. (NO CAPITAL LETTERS, NO SPACES AND DO NOT SAVE IT TO ONE DRIVE.)
+1. Command: `mkdir 2025oct25`
 *Create and a terreform authentication file in the newly created directory, verify that the file is empty and then code fron the 0-auth,tf file in forted GithHub repository.
 1. Command: touch 0-auth.tf
 2. Command: cat 0-auth.tf  (this command is to verify that the file is empty)
