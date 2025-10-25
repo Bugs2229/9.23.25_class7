@@ -2,7 +2,8 @@
 The purpose of this guide is to provide th initial instructions on how to setup Terraform begin pervisioning infrastructure in the AWS cloud.
 
 ## Initial Terraform configuration confirmation check 
-* Verify AWS CLI Configuration and terraform version: Open Git Bash and run the following commnads. Aws configure | Terragorm --v version
+* Verify AWS CLI Configuration and terraform version: Open Git Bash and run the following commnads. Aws configure | Terragorm -v version
+  
 `AWS configure`
 <img width="942" height="515" alt="image" src="https://github.com/user-attachments/assets/16d5e51a-013e-435e-8902-a9168e78c10b" />
 
