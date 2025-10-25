@@ -12,15 +12,15 @@ Command: Terraform --version
 ## Create Terraform file 
 *Launch Git Bash and navigate to the local Terraform folder and create folder 2025oct25. (NO CAPITAL LETTERS, NO SPACES AND DO NOT SAVE IT TO ONE DRIVE.)
 1. Command: `mkdir 2025oct25`
-*Create and a terreform authentication file in the newly created directory, verify that the file is empty and then code fron the 0-auth,tf file in forted GithHub repository.
-1. Command: touch 0-auth.tf
-2. Command: cat 0-auth.tf  (this command is to verify that the file is empty)
-3. Command: code . (this command opens VS code)
+*Create a terreform authentication file in the newly created directory, verify that the file is empty and then code fron the 0-auth,tf file in forted GithHub repository.
+1. Command: `touch 0-auth.tf`
+2. Command: `cat 0-auth.tf`  (this command is to verify that the file is empty)
+3. Command: `code .` (this command opens VS code)
 4. Instruction: In Vs code Navigate and select Terminal>new terminal located to the top and left of the screen.
 5. Instruction: go to https://github.com/malgus-waf/class5 and click on 0-auth
 6. instruction: copy and paste the use data from https://github.com/malgus-waf/class5/blob/main/0-Auth.tf and paste it into your 0-auth.tf file via VS code.
 7. Instruction: save your the data to your 0-auth.tf file (CTRl+S)
-8. Command: curl -o .gitignore https://raw.githubusercontent.com/Aaron-Rob/terraform-aws/master/.gitignore b (downloads the .gitignore file from remotr directory)
+8. Command: `curl -o .gitignore https://raw.githubusercontent.com/Aaron-Rob/terraform-aws/master/.gitignore b` (downloads the .gitignore file from remotr directory)
 
 ## Excute and validate Terraform 
 1. Command: terraform init (starts Terraform)
