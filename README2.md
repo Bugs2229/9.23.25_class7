@@ -16,3 +16,17 @@
 5. Instruction: go to https://github.com/malgus-waf/class5 and click on 0-auth
 6. instruction: copy and paste the use data from https://github.com/malgus-waf/class5/blob/main/0-Auth.tf and paste it into your 0-auth.tf file via VS code.
 7. Instruction: save your the data to your 0-auth.tf file (CTRl+S)
+8. Command: curl -o .gitignore https://raw.githubusercontent.com/Aaron-Rob/terraform-aws/master/.gitignore b (downloads the .gitignore file from remotr directory)
+
+## Excute and validate Terraform 
+1. Command: terraform init (starts Terraform)
+2. Command: terraform validate (checks configuration for syntex errors)
+3. Command: terraform plan (creates a plan to configure/pervision the infrastructure you requested)
+4. command: terraform apply (executes the plan)
+
+## Confirmation that the Terraform has been properly configured.
+To in insure that your Terraform configuratuion is working properly you should have the following files in folder 2025oct25.
+* terraform.lock.hcl
+* .gitignore
+* terraform.tfstate
+**Note: DO NOT TOUCH OR MODIFY ANY OF THE ABOVE FILES.**
