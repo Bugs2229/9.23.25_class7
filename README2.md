@@ -1,9 +1,13 @@
 # Class 7 Week 6 HW Deliverables Terraform Guide 
+The purpose of this guide is to provide th initial instructions on how to setup Terraform begin pervisioning infrastructure in the AWS cloud.
 
-
-
-## Initial Configuration 
+## Initial Terraform configuration confirmation check 
 * Verify AWS CLI Configuration and terraform version: Open Git Bash and run the following commnads. Aws configure | Terragorm --v version
+Command: AWS configure
+<img width="942" height="515" alt="image" src="https://github.com/user-attachments/assets/16d5e51a-013e-435e-8902-a9168e78c10b" />
+
+Command: Terraform --version 
+<img width="956" height="251" alt="image" src="https://github.com/user-attachments/assets/bd414fb2-3c78-406f-84d6-2d081630b7fa" />
 
 ## Create Terraform file 
 *Luanch Git Bash and navigate to the local Terraform folder and create folder 2025oct25. (NO CAPITAL LETTERS, NO SPACES AND DO NOT SAVE IT TO ONE DRIVE.)
