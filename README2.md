@@ -23,10 +23,10 @@ Command: Terraform --version
 8. Command: `curl -o .gitignore https://raw.githubusercontent.com/Aaron-Rob/terraform-aws/master/.gitignore b` (downloads the .gitignore file from remotr directory)
 
 ## Excute and validate Terraform 
-1. Command: terraform init (starts Terraform)
-2. Command: terraform validate (checks configuration for syntex errors)
-3. Command: terraform plan (creates a plan to configure/pervision the infrastructure you requested)
-4. command: terraform apply (executes the plan)
+1. Command: `terraform init` (starts Terraform)
+2. Command: `terraform validate` (checks configuration for syntex errors)
+3. Command: `terraform plan` (creates a plan to configure/pervision the infrastructure you requested)
+4. command: `terraform apply` (executes the plan)
 
 ## Confirmation that the Terraform has been properly configured.
 To in insure that your Terraform configuratuion is working properly you should have the following files in folder 2025oct25.
